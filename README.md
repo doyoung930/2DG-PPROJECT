@@ -1,0 +1,2 @@
+# 2DG-PPROJECT
+2DGP 기말 프로젝트
